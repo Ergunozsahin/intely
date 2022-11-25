@@ -4,7 +4,7 @@ public class gitpull {
 
 
         System.out.println("hello world");
-        gitpuul degisiklik
+        //gitpuul degisiklik
         
     }
 }
